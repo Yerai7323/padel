@@ -1,0 +1,7 @@
+{
+  "name": "padel-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
